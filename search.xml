@@ -7,6 +7,9 @@
 <h3 id="1-LLVM内联框架"><a href="#1-LLVM内联框架" class="headerlink" title="1. LLVM内联框架"></a>1. LLVM内联框架</h3><p>LLVM内联框架图…</p>
 <h3 id="2-LLVM内联阶段分析"><a href="#2-LLVM内联阶段分析" class="headerlink" title="2. LLVM内联阶段分析"></a>2. LLVM内联阶段分析</h3><p>进行代码变换之后  如何修复函数属性&#x2F;调试信息等…</p>
 ]]></content>
+      <categories>
+        <category>techNotes</category>
+      </categories>
       <tags>
         <tag>LLVM</tag>
       </tags>
