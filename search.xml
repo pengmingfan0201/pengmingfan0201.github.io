@@ -32,4 +32,16 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>Oakland22_cryptoMPK论文阅读笔记</title>
+    <url>/2022/05/14/oakland22-cryptoMPK%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h3 id="1-解决了什么问题？"><a href="#1-解决了什么问题？" class="headerlink" title="1. 解决了什么问题？"></a>1. 解决了什么问题？</h3><h3 id="2-如何解决的？"><a href="#2-如何解决的？" class="headerlink" title="2. 如何解决的？"></a>2. 如何解决的？</h3><h3 id="3-有哪些创新点？"><a href="#3-有哪些创新点？" class="headerlink" title="3. 有哪些创新点？"></a>3. 有哪些创新点？</h3><h3 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h3>]]></content>
+      <categories>
+        <category>Paper Reading</category>
+      </categories>
+      <tags>
+        <tag>program analysis</tag>
+        <tag>memory isolation</tag>
+      </tags>
+  </entry>
 </search>
